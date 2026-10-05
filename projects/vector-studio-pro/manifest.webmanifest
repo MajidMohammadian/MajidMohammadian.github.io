@@ -1,12 +1,13 @@
 {
   "name": "Vector Studio",
   "short_name": "Vector Studio",
-  "description": "A professional SVG and vector design studio.",
-  "start_url": "./index.html",
+  "description": "Professional browser-based SVG and vector design studio.",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#111418",
-  "theme_color": "#111418",
+  "background_color": "#17191d",
+  "theme_color": "#17191d",
+  "orientation": "any",
   "icons": [
     {
       "src": "icon-192.png",
